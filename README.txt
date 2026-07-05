@@ -1,4 +1,4 @@
-My Discord Bots:
+Side projects:
 
 PromoPingu: https://github.com/GabrielMFC/PromoPingu
 
